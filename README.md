@@ -1,16 +1,1 @@
-# sparebusket
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Food-Sharing application that enables donors to create detailed listings of available food, including information on location, quantity, and preferences. These listings can only be removed before a receiver makes a request. Receivers have the ability to browse listings, request food, and cancel their requests. The system includes a rating feature for users to report any problems during the food-sharing process. The admin panel oversees reports, issuing warnings or bans as necessary. Additionally, users can engage in real-time messaging for effective communication.
